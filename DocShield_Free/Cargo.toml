@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "docshield-core",
+    "docshield-wasm"
+]
+resolver = "2"
